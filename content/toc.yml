@@ -8,10 +8,8 @@ toc:
     items:
       - page: Guide1
         file: guides/guide1.md
-      - page: new docs
-        file: guides/new-docs
       - page: new doc
-        file: guides/new-doc
+        file: guides/new-doc.md
   - generate: API Endpoints
     from: endpoints
   - generate: Models
