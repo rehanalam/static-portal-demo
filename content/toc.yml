@@ -16,3 +16,7 @@ toc:
     from: endpoints
   - generate: Models
     from: models
+  - group: Intro
+    items:
+      - page: docs
+        file: intro/docs.md
