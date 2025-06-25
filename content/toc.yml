@@ -10,6 +10,8 @@ toc:
         file: guides/guide1.md
       - page: new doc
         file: guides/new-doc.md
+      - page: new
+        file: guides/new.md
   - generate: API Endpoints
     from: endpoints
   - generate: Models
