@@ -24,3 +24,7 @@ toc:
     items:
       - page: ref
         file: ref/ref.md
+  - group: Ref
+    items:
+      - page: Ref
+        file: ref/ref.md
