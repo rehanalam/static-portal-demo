@@ -28,7 +28,13 @@ toc:
     items:
       - page: Ref
         file: ref/ref.md
+      - page: ned ref
+        file: ref/new-ref
   - group: empty
     items:
       - page: adds new page
+        file: empty/page.md
+  - group: Empty
+    items:
+      - page: Page
         file: empty/page.md
