@@ -29,4 +29,6 @@ toc:
       - page: Ref
         file: ref/ref.md
   - group: empty
-    items: []
+    items:
+      - page: adds new page
+        file: empty/page.md
