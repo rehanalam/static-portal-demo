@@ -30,6 +30,8 @@ toc:
         file: ref/ref.md
       - page: ned ref
         file: ref/new-ref
+      - page: rehan
+        file: ref/rehan.mdx
   - group: empty
     items:
       - page: adds new page
